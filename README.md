@@ -1,0 +1,4 @@
+CAH
+===
+
+Cellular Automata Hash
